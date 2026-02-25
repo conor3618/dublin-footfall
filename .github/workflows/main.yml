@@ -1,0 +1,32 @@
+name: Yesterday Footfall Data
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # 6AM UTC daily
+  workflow_dispatch:      # Manual trigger
+
+jobs:
+  fetch-footfall:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.12'
+    
+    - name: Install dependencies
+      run: pip install requests
+    
+    - name: Run footfall script
+      run: python footfall_yesterday.py
+    
+    - name: Commit data changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add data/footfall_yesterday.json
+        git diff --staged --quiet || git commit -m "Update footfall data $(date +%Y-%m-%d)"
+        git push
