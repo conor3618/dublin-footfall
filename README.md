@@ -1,6 +1,6 @@
-# Eco-Counter Footfall Data
+# Dublin Footfall and Cycle Data
 
-A Python project that queries the [Eco-Counter API](https://data.smartdublin.ie/dataset/pedestrian-and-cycle-counter-api-for-dublin-region) to retrieve pedestrian and bike footfall totals across 7 time periods. Includes scheduled GitHub Actions that automatically update both historical and current period data daily.
+A Python project that queries the [Eco-Counter API](https://data.smartdublin.ie/dataset/pedestrian-and-cycle-counter-api-for-dublin-region) to retrieve pedestrian and bike footfall totals acros the Dublin region. Includes scheduled GitHub Actions that automatically update both historical and current period data daily.
 
 ## Features
 - Fetches data for yesterday, last week/month/year (historical)
@@ -61,15 +61,7 @@ Each JSON contains:
 ## GitHub Action
 Scheduled workflow runs both scripts daily at **6AM UTC** and commits all 7 updated JSON files automatically.
 
-Latest data always available via raw GitHub URLs:
-
-**Historical**:
-- [Yesterday](https://raw.githubusercontent.com/conor3618/footfall-data/main/data/footfall_yesterday.json)
-- [Last Week](https://raw.githubusercontent.com/conor3618/footfall-data/main/data/footfall_lastweek.json)
-
-**Current**:
-- [Current Week YTD](https://raw.githubusercontent.com/conor3618/footfall-data/main/data/footfall_currentweek.json)
-- [Current Year YTD](https://raw.githubusercontent.com/conor3618/footfall-data/main/data/footfall_currentyear.json)
+Latest data always available via raw GitHub URLs
 
 ## Time Periods
 
