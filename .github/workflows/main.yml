@@ -1,4 +1,4 @@
-name: Footfall Historical Data
+name: Footfall Data (Historical & Current)
 
 on:
   schedule:
@@ -20,13 +20,16 @@ jobs:
     - name: Install dependencies
       run: pip install requests
     
-    - name: Run footfall script
+    - name: Run historical footfall script
       run: python footfall_historical.py
     
-    - name: Commit data changes
+    - name: Run current footfall script
+      run: python footfall_current.py
+    
+    - name: Commit all data changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add data/footfall_*.json
-        git diff --staged --quiet || git commit -m "Update footfall data: yesterday, last week, last month, last year $(date +%Y-%m-%d)"
+        git diff --staged --quiet || git commit -m "Update footfall data: historical & current periods $(date +%Y-%m-%d)"
         git push
