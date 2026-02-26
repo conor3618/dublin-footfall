@@ -21,7 +21,7 @@ jobs:
       run: pip install requests
     
     - name: Run footfall script
-      run: python footfall_yesterday.py
+      run: python footfall_historical.py
     
     - name: Commit data changes
       run: |
