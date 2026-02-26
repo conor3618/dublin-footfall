@@ -90,3 +90,4 @@ GET https://api.eco-counter.com/api/v2/statistical/total
 
 ## Licence
 Code is licensed under the MIT License.
+Data: Creative Commons Licence
