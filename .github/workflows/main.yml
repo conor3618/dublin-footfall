@@ -1,4 +1,4 @@
-name: Yesterday Footfall Data
+name: Footfall Historical Data
 
 on:
   schedule:
@@ -27,6 +27,6 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add data/footfall_yesterday.json
-        git diff --staged --quiet || git commit -m "Update footfall data $(date +%Y-%m-%d)"
+        git add data/footfall_*.json
+        git diff --staged --quiet || git commit -m "Update footfall data: yesterday, last week, last month, last year $(date +%Y-%m-%d)"
         git push
