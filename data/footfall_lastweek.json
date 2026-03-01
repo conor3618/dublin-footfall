@@ -1,5 +1,5 @@
 {
-  "request_time": "2026-02-28 06:37:10",
+  "request_time": "2026-03-01 06:43:46",
   "data_date": "last week (7 days)",
   "sites": [
     {
@@ -299,7 +299,7 @@
     {
       "siteId": 100041485,
       "pedestrian count": 0,
-      "bike count": 245,
+      "bike count": 288,
       "name": "Wyattville Rd - Bicycles From N11"
     },
     {
