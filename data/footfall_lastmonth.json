@@ -1,5 +1,5 @@
 {
-  "request_time": "2026-05-07 08:31:32",
+  "request_time": "2026-05-08 07:28:12",
   "data_date": "last month (~30 days)",
   "sites": [
     {
@@ -239,7 +239,7 @@
     {
       "siteId": 100027179,
       "pedestrian count": 0,
-      "bike count": 102921,
+      "bike count": 103969,
       "name": "Grove Road Totem"
     },
     {
