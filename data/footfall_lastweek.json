@@ -1,7 +1,13 @@
 {
-  "request_time": "2026-06-22 11:50:34",
+  "request_time": "2026-06-23 09:35:38",
   "data_date": "last week (7 days)",
   "sites": [
+    {
+      "siteId": 100063165,
+      "pedestrian count": 625225,
+      "bike count": 0,
+      "name": "Baggot st upper/Mespil rd/Bank"
+    },
     {
       "siteId": 100006267,
       "pedestrian count": 188194,
@@ -421,12 +427,6 @@
       "pedestrian count": 0,
       "bike count": 0,
       "name": "Baggot st lower/Wilton tce inbound"
-    },
-    {
-      "siteId": 100063165,
-      "pedestrian count": 0,
-      "bike count": 0,
-      "name": "Baggot st upper/Mespil rd/Bank"
     },
     {
       "siteId": 100063167,

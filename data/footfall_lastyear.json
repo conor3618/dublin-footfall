@@ -1,18 +1,18 @@
 {
-  "request_time": "2026-06-22 11:50:40",
+  "request_time": "2026-06-23 09:35:45",
   "data_date": "last year (365 days)",
   "sites": [
+    {
+      "siteId": 100063165,
+      "pedestrian count": 38337000,
+      "bike count": 0,
+      "name": "Baggot st upper/Mespil rd/Bank"
+    },
     {
       "siteId": 100063162,
       "pedestrian count": 17988124,
       "bike count": 0,
       "name": "North Wall Quay/Samuel Beckett bridge West"
-    },
-    {
-      "siteId": 100063165,
-      "pedestrian count": 15389549,
-      "bike count": 0,
-      "name": "Baggot st upper/Mespil rd/Bank"
     },
     {
       "siteId": 100006267,
