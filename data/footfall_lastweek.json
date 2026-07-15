@@ -1,5 +1,5 @@
 {
-  "request_time": "2026-07-14 08:00:19",
+  "request_time": "2026-07-15 08:05:44",
   "data_date": "last week (7 days)",
   "sites": [
     {
@@ -173,7 +173,7 @@
     {
       "siteId": 100003429,
       "pedestrian count": 0,
-      "bike count": 0,
+      "bike count": 12,
       "name": "Rock Road Bus Lane"
     },
     {
