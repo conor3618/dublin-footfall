@@ -1,40 +1,40 @@
 {
-  "request_time": "2026-08-01 08:17:15",
+  "request_time": "2026-08-02 08:21:15",
   "data_date": "current year 2026 (YTD)",
   "sites": [
     {
       "siteId": 100063165,
-      "pedestrian count": 17889856,
+      "pedestrian count": 17931296,
       "bike count": 0,
       "name": "Baggot st upper/Mespil rd/Bank"
     },
     {
       "siteId": 100006267,
-      "pedestrian count": 10757278,
+      "pedestrian count": 10795964,
       "bike count": 0,
       "name": "Grafton Street/CompuB"
     },
     {
       "siteId": 100001491,
-      "pedestrian count": 5138498,
+      "pedestrian count": 5178204,
       "bike count": 0,
       "name": "Capel st/Mary street"
     },
     {
       "siteId": 100007778,
-      "pedestrian count": 3547796,
+      "pedestrian count": 3563661,
       "bike count": 0,
       "name": "O'Connell St/Parnell St/AIB"
     },
     {
       "siteId": 100050525,
-      "pedestrian count": 3170707,
+      "pedestrian count": 3183129,
       "bike count": 0,
       "name": "College Green/Church Lane"
     },
     {
       "siteId": 100007106,
-      "pedestrian count": 2247640,
+      "pedestrian count": 2256819,
       "bike count": 0,
       "name": "Talbot st/Murrays Pharmacy"
     },
@@ -46,19 +46,19 @@
     },
     {
       "siteId": 100001489,
-      "pedestrian count": 2063576,
+      "pedestrian count": 2074855,
       "bike count": 0,
       "name": "Mary st/Jervis st"
     },
     {
       "siteId": 100063166,
-      "pedestrian count": 2056997,
+      "pedestrian count": 2066734,
       "bike count": 0,
       "name": "Richmond st south/Portabello Harbour inbound"
     },
     {
       "siteId": 100063170,
-      "pedestrian count": 1288774,
+      "pedestrian count": 1295138,
       "bike count": 0,
       "name": "Richmond st south/Portabello Harbour outbound"
     },
@@ -76,14 +76,14 @@
     },
     {
       "siteId": 100063161,
-      "pedestrian count": 873625,
+      "pedestrian count": 874967,
       "bike count": 0,
       "name": "Grand Canal st upp/Clanwilliam place"
     },
     {
       "siteId": 100063179,
-      "pedestrian count": 591516,
-      "bike count": 189206,
+      "pedestrian count": 595025,
+      "bike count": 190087,
       "name": "Dun Laoghaire @ Peoples Park"
     },
     {
@@ -106,31 +106,31 @@
     },
     {
       "siteId": 300015980,
-      "pedestrian count": 248186,
-      "bike count": 122366,
+      "pedestrian count": 249364,
+      "bike count": 122947,
       "name": "Rock Road Park - Ped's & Cyclists"
     },
     {
       "siteId": 100063178,
-      "pedestrian count": 179522,
-      "bike count": 238307,
+      "pedestrian count": 180453,
+      "bike count": 239603,
       "name": "Dun Laoghaire @ Seapoint Beach"
     },
     {
       "siteId": 100041487,
-      "pedestrian count": 166306,
+      "pedestrian count": 167096,
       "bike count": 13149,
       "name": "Wyattville Rd At Park Gates"
     },
     {
       "siteId": 100006259,
-      "pedestrian count": 133484,
+      "pedestrian count": 133952,
       "bike count": 0,
       "name": "Aston Quay/Fitzgeralds"
     },
     {
       "siteId": 100049328,
-      "pedestrian count": 91300,
+      "pedestrian count": 91552,
       "bike count": 0,
       "name": "Round Tower Entrance"
     },
@@ -142,13 +142,13 @@
     },
     {
       "siteId": 100064763,
-      "pedestrian count": 70485,
-      "bike count": 52431,
+      "pedestrian count": 71110,
+      "bike count": 53097,
       "name": "Portmarnock Greenway"
     },
     {
       "siteId": 100049327,
-      "pedestrian count": 7283,
+      "pedestrian count": 7302,
       "bike count": 0,
       "name": "Round Tower Upstairs"
     },
@@ -251,25 +251,25 @@
     {
       "siteId": 100023988,
       "pedestrian count": 0,
-      "bike count": 123339,
+      "bike count": 123802,
       "name": "Rock Road Totem (2 way cycle track)"
     },
     {
       "siteId": 100027140,
       "pedestrian count": 0,
-      "bike count": 74473,
+      "bike count": 74703,
       "name": "N11 Totem Inbound"
     },
     {
       "siteId": 100027167,
       "pedestrian count": 0,
-      "bike count": 359736,
+      "bike count": 360705,
       "name": "Clonskeagh Totem"
     },
     {
       "siteId": 100027179,
       "pedestrian count": 0,
-      "bike count": 657509,
+      "bike count": 659189,
       "name": "Grove Road Totem"
     },
     {
@@ -299,7 +299,7 @@
     {
       "siteId": 100034543,
       "pedestrian count": 0,
-      "bike count": 342079,
+      "bike count": 343236,
       "name": "North Strand Rd S/B"
     },
     {
@@ -317,13 +317,13 @@
     {
       "siteId": 100041484,
       "pedestrian count": 0,
-      "bike count": 15399,
+      "bike count": 15559,
       "name": "Wyattville Rd - Bicycles Towards N11"
     },
     {
       "siteId": 100041485,
       "pedestrian count": 0,
-      "bike count": 15166,
+      "bike count": 15283,
       "name": "Wyattville Rd - Bicycles From N11"
     },
     {
@@ -341,7 +341,7 @@
     {
       "siteId": 100046611,
       "pedestrian count": 0,
-      "bike count": 514563,
+      "bike count": 515900,
       "name": "Guild Street"
     },
     {
@@ -413,13 +413,13 @@
     {
       "siteId": 100059508,
       "pedestrian count": 0,
-      "bike count": 144681,
+      "bike count": 145703,
       "name": "Coast Road Totem"
     },
     {
       "siteId": 100059509,
       "pedestrian count": 0,
-      "bike count": 45292,
+      "bike count": 45586,
       "name": "Castleknock Totem"
     },
     {
@@ -461,13 +461,13 @@
     {
       "siteId": 100064636,
       "pedestrian count": 0,
-      "bike count": 73067,
+      "bike count": 73426,
       "name": "Morton Stadium Swords"
     },
     {
       "siteId": 300014830,
       "pedestrian count": 0,
-      "bike count": 37550,
+      "bike count": 37693,
       "name": "Drumcondra Cyclists Outbound (Not On Site - Roadworks)"
     },
     {
@@ -491,13 +491,13 @@
     {
       "siteId": 300017046,
       "pedestrian count": 0,
-      "bike count": 303489,
+      "bike count": 305325,
       "name": "Clontarf - Pebble Beach Carpark"
     },
     {
       "siteId": 300017047,
       "pedestrian count": 0,
-      "bike count": 191988,
+      "bike count": 193278,
       "name": "Clontarf - James Larkin Rd"
     },
     {
@@ -509,25 +509,25 @@
     {
       "siteId": 300020592,
       "pedestrian count": 0,
-      "bike count": 74969,
+      "bike count": 75241,
       "name": "Griffith Avenue (Clare Rd Side)"
     },
     {
       "siteId": 300020593,
       "pedestrian count": 0,
-      "bike count": 39007,
+      "bike count": 39184,
       "name": "Griffith Avenue (Lane Side)"
     },
     {
       "siteId": 300040955,
       "pedestrian count": 0,
-      "bike count": 523409,
+      "bike count": 525703,
       "name": "College Green bike loop @Bank of Ireland"
     },
     {
       "siteId": 300050015,
       "pedestrian count": 0,
-      "bike count": 211938,
+      "bike count": 212717,
       "name": "Connolly Station Totem"
     }
   ]
