@@ -1,5 +1,5 @@
 {
-  "request_time": "2026-08-16 06:35:31",
+  "request_time": "2026-08-17 06:50:14",
   "data_date": "last month (~30 days)",
   "sites": [
     {
@@ -70,7 +70,7 @@
     },
     {
       "siteId": 100063159,
-      "pedestrian count": 78217,
+      "pedestrian count": 81302,
       "bike count": 0,
       "name": "Phibsborough Rd/Enniskerry Road"
     },
