@@ -1,5 +1,5 @@
 {
-  "request_time": "2026-08-31 12:42:52",
+  "request_time": "2026-09-01 11:06:28",
   "data_date": "last week (7 days)",
   "sites": [
     {
@@ -479,7 +479,7 @@
     {
       "siteId": 300014832,
       "pedestrian count": 0,
-      "bike count": 0,
+      "bike count": 11064,
       "name": "Richmond Street Inbound"
     },
     {
@@ -529,6 +529,12 @@
       "pedestrian count": 0,
       "bike count": 7245,
       "name": "Connolly Station Totem"
+    },
+    {
+      "siteId": 300071114,
+      "pedestrian count": 0,
+      "bike count": 0,
+      "name": "Charleville mall"
     }
   ]
 }

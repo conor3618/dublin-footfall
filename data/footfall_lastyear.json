@@ -1,5 +1,5 @@
 {
-  "request_time": "2026-08-31 12:42:58",
+  "request_time": "2026-09-01 11:06:35",
   "data_date": "last year (365 days)",
   "sites": [
     {
@@ -529,6 +529,12 @@
       "pedestrian count": 0,
       "bike count": 238922,
       "name": "Connolly Station Totem"
+    },
+    {
+      "siteId": 300071114,
+      "pedestrian count": 0,
+      "bike count": 0,
+      "name": "Charleville mall"
     }
   ]
 }
