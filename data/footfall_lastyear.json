@@ -1,5 +1,5 @@
 {
-  "request_time": "2026-09-03 10:40:42",
+  "request_time": "2026-09-04 10:36:24",
   "data_date": "last year (365 days)",
   "sites": [
     {
@@ -168,7 +168,7 @@
       "siteId": 100041487,
       "pedestrian count": 303592,
       "bike count": 39686,
-      "name": "Wyattville Rd At Park Gates"
+      "name": "Wyattville Rd At Park Gates (Replacement Loops Required 03.09.26)"
     },
     {
       "siteId": 100063178,
@@ -180,7 +180,7 @@
       "siteId": 100063180,
       "pedestrian count": 209508,
       "bike count": 250415,
-      "name": "Dun Laoghaire @ York Road"
+      "name": "Dun Laoghaire @ York Road (Replacement Counter Required 03.09.26)"
     },
     {
       "siteId": 100063160,
@@ -192,7 +192,7 @@
       "siteId": 100000425,
       "pedestrian count": 156462,
       "bike count": 177464,
-      "name": "Glenageary"
+      "name": "Glenageary (Replacement Counter Required 03.09.26)"
     },
     {
       "siteId": 100049328,
@@ -258,7 +258,7 @@
       "siteId": 100003430,
       "pedestrian count": 0,
       "bike count": 241230,
-      "name": "N11 Outbound (Montrose)"
+      "name": "N11 Outbound (Montrose) (Replacement Counter Required 03.09.26)"
     },
     {
       "siteId": 100006278,
@@ -330,13 +330,13 @@
       "siteId": 100034544,
       "pedestrian count": 0,
       "bike count": 401560,
-      "name": "North Strand Rd N/B"
+      "name": "North Strand Rd N/B (Replacement Counter Required 03.09.26)"
     },
     {
       "siteId": 100034545,
       "pedestrian count": 0,
       "bike count": 0,
-      "name": "Charleville Mall (Unable to Reinstall Repaired Counter due to Roadworks 23.08.2023)"
+      "name": "Charleville Mall"
     },
     {
       "siteId": 100041484,
@@ -468,25 +468,25 @@
       "siteId": 300014830,
       "pedestrian count": 0,
       "bike count": 6556,
-      "name": "Drumcondra Cyclists Outbound (Not On Site - Roadworks)"
+      "name": "Drumcondra Cyclists Outbound (Replacement Loops Required 03.09.26)"
     },
     {
       "siteId": 300014831,
       "pedestrian count": 0,
       "bike count": 232315,
-      "name": "Richmond Street Outbound"
+      "name": "Richmond Street Outbound (Replacement Counter Required 03.09.26)"
     },
     {
       "siteId": 300014832,
       "pedestrian count": 0,
       "bike count": 2139,
-      "name": "Richmond Street Inbound"
+      "name": "Richmond Street Inbound (Replacement Counter Required 03.09.26)"
     },
     {
       "siteId": 300014833,
       "pedestrian count": 0,
       "bike count": 0,
-      "name": "Drumcondra Cyclists Inbound (Not On Site - Roadworks)"
+      "name": "Drumcondra Cyclists Inbound"
     },
     {
       "siteId": 300017046,
