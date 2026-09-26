@@ -1,10 +1,10 @@
 {
-  "request_time": "2026-09-25 11:10:18",
+  "request_time": "2026-09-26 10:50:05",
   "data_date": "current year 2026 (YTD)",
   "sites": [
     {
       "siteId": 100063165,
-      "pedestrian count": 22195372,
+      "pedestrian count": 22262316,
       "bike count": 0,
       "name": "Baggot st upper/Mespil rd/Bank"
     },
@@ -16,7 +16,7 @@
     },
     {
       "siteId": 100001491,
-      "pedestrian count": 7240837,
+      "pedestrian count": 7277781,
       "bike count": 0,
       "name": "Capel st/Mary street"
     },
@@ -40,13 +40,13 @@
     },
     {
       "siteId": 100001489,
-      "pedestrian count": 2510859,
+      "pedestrian count": 2518935,
       "bike count": 0,
       "name": "Mary st/Jervis st"
     },
     {
       "siteId": 100063166,
-      "pedestrian count": 2484189,
+      "pedestrian count": 2492520,
       "bike count": 0,
       "name": "Richmond st south/Portabello Harbour inbound"
     },
@@ -88,7 +88,7 @@
     },
     {
       "siteId": 100063159,
-      "pedestrian count": 586958,
+      "pedestrian count": 589530,
       "bike count": 0,
       "name": "Phibsborough Rd/Enniskerry Road"
     },
@@ -100,8 +100,8 @@
     },
     {
       "siteId": 300015980,
-      "pedestrian count": 297262,
-      "bike count": 157495,
+      "pedestrian count": 297892,
+      "bike count": 158035,
       "name": "Rock Road Park - Ped's & Cyclists"
     },
     {
@@ -112,32 +112,32 @@
     },
     {
       "siteId": 100063178,
-      "pedestrian count": 224216,
-      "bike count": 309447,
+      "pedestrian count": 224901,
+      "bike count": 310455,
       "name": "Dun Laoghaire @ Seapoint Beach"
     },
     {
       "siteId": 100006259,
-      "pedestrian count": 213213,
+      "pedestrian count": 215286,
       "bike count": 0,
       "name": "Aston Quay/Fitzgeralds"
     },
     {
       "siteId": 100041487,
-      "pedestrian count": 211818,
+      "pedestrian count": 212764,
       "bike count": 13149,
       "name": "Wyattville Rd At Park Gates (Replacement Loops Required 03.09.26)"
     },
     {
       "siteId": 100049328,
-      "pedestrian count": 110728,
+      "pedestrian count": 111157,
       "bike count": 0,
       "name": "Round Tower Entrance"
     },
     {
       "siteId": 100064763,
-      "pedestrian count": 100993,
-      "bike count": 76668,
+      "pedestrian count": 101297,
+      "bike count": 76951,
       "name": "Portmarnock Greenway"
     },
     {
@@ -148,7 +148,7 @@
     },
     {
       "siteId": 100049327,
-      "pedestrian count": 9221,
+      "pedestrian count": 9239,
       "bike count": 0,
       "name": "Round Tower Upstairs"
     },
@@ -251,25 +251,25 @@
     {
       "siteId": 100023988,
       "pedestrian count": 0,
-      "bike count": 162467,
+      "bike count": 163138,
       "name": "Rock Road Totem (2 way cycle track)"
     },
     {
       "siteId": 100027140,
       "pedestrian count": 0,
-      "bike count": 97082,
+      "bike count": 97563,
       "name": "N11 Totem Inbound"
     },
     {
       "siteId": 100027167,
       "pedestrian count": 0,
-      "bike count": 463864,
+      "bike count": 466139,
       "name": "Clonskeagh Totem"
     },
     {
       "siteId": 100027179,
       "pedestrian count": 0,
-      "bike count": 841189,
+      "bike count": 844794,
       "name": "Grove Road Totem"
     },
     {
@@ -299,7 +299,7 @@
     {
       "siteId": 100034543,
       "pedestrian count": 0,
-      "bike count": 437528,
+      "bike count": 439360,
       "name": "North Strand Rd S/B"
     },
     {
@@ -311,19 +311,19 @@
     {
       "siteId": 100034545,
       "pedestrian count": 0,
-      "bike count": 35945,
+      "bike count": 37449,
       "name": "Charleville Mall"
     },
     {
       "siteId": 100041484,
       "pedestrian count": 0,
-      "bike count": 20378,
+      "bike count": 20454,
       "name": "Wyattville Rd - Bicycles Towards N11"
     },
     {
       "siteId": 100041485,
       "pedestrian count": 0,
-      "bike count": 19687,
+      "bike count": 19757,
       "name": "Wyattville Rd - Bicycles From N11"
     },
     {
@@ -341,7 +341,7 @@
     {
       "siteId": 100046611,
       "pedestrian count": 0,
-      "bike count": 663139,
+      "bike count": 665894,
       "name": "Guild Street"
     },
     {
@@ -413,13 +413,13 @@
     {
       "siteId": 100059508,
       "pedestrian count": 0,
-      "bike count": 187951,
+      "bike count": 188647,
       "name": "Coast Road Totem"
     },
     {
       "siteId": 100059509,
       "pedestrian count": 0,
-      "bike count": 68847,
+      "bike count": 69214,
       "name": "Castleknock Totem"
     },
     {
@@ -461,7 +461,7 @@
     {
       "siteId": 100064636,
       "pedestrian count": 0,
-      "bike count": 94769,
+      "bike count": 95144,
       "name": "Morton Stadium Swords"
     },
     {
@@ -485,19 +485,19 @@
     {
       "siteId": 300014833,
       "pedestrian count": 0,
-      "bike count": 22311,
+      "bike count": 23161,
       "name": "Drumcondra Cyclists Inbound"
     },
     {
       "siteId": 300017046,
       "pedestrian count": 0,
-      "bike count": 393978,
+      "bike count": 395198,
       "name": "Clontarf - Pebble Beach Carpark"
     },
     {
       "siteId": 300017047,
       "pedestrian count": 0,
-      "bike count": 251184,
+      "bike count": 251980,
       "name": "Clontarf - James Larkin Rd"
     },
     {
@@ -509,25 +509,25 @@
     {
       "siteId": 300020592,
       "pedestrian count": 0,
-      "bike count": 97272,
+      "bike count": 97739,
       "name": "Griffith Avenue (Clare Rd Side)"
     },
     {
       "siteId": 300020593,
       "pedestrian count": 0,
-      "bike count": 54061,
+      "bike count": 54390,
       "name": "Griffith Avenue (Lane Side)"
     },
     {
       "siteId": 300040955,
       "pedestrian count": 0,
-      "bike count": 677123,
+      "bike count": 680309,
       "name": "College Green bike loop @Bank of Ireland"
     },
     {
       "siteId": 300050015,
       "pedestrian count": 0,
-      "bike count": 271958,
+      "bike count": 272838,
       "name": "Connolly Station Totem"
     },
     {
