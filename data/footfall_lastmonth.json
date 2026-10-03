@@ -1,5 +1,5 @@
 {
-  "request_time": "2026-10-02 11:53:45",
+  "request_time": "2026-10-03 11:07:00",
   "data_date": "last month (~30 days)",
   "sites": [
     {
@@ -215,7 +215,7 @@
     {
       "siteId": 100027140,
       "pedestrian count": 0,
-      "bike count": 12533,
+      "bike count": 14272,
       "name": "N11 Totem Inbound"
     },
     {
