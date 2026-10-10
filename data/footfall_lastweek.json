@@ -1,5 +1,5 @@
 {
-  "request_time": "2026-10-09 12:35:00",
+  "request_time": "2026-10-10 11:55:31",
   "data_date": "last week (7 days)",
   "sites": [
     {
@@ -13,6 +13,12 @@
       "pedestrian count": 284598,
       "bike count": 0,
       "name": "Capel st/Mary street"
+    },
+    {
+      "siteId": 100006267,
+      "pedestrian count": 91031,
+      "bike count": 0,
+      "name": "Grafton Street/CompuB"
     },
     {
       "siteId": 100001489,
@@ -133,12 +139,6 @@
       "pedestrian count": 0,
       "bike count": 0,
       "name": "N11 Outbound (Montrose) (Replacement Counter Required 03.09.26)"
-    },
-    {
-      "siteId": 100006267,
-      "pedestrian count": 0,
-      "bike count": 0,
-      "name": "Grafton Street/CompuB"
     },
     {
       "siteId": 100006278,
