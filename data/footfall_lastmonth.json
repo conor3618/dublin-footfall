@@ -1,5 +1,5 @@
 {
-  "request_time": "2026-10-10 11:55:33",
+  "request_time": "2026-10-11 12:07:08",
   "data_date": "last month (~30 days)",
   "sites": [
     {
@@ -16,7 +16,7 @@
     },
     {
       "siteId": 100006267,
-      "pedestrian count": 649282,
+      "pedestrian count": 847778,
       "bike count": 0,
       "name": "Grafton Street/CompuB"
     },
