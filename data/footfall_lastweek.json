@@ -1,5 +1,5 @@
 {
-  "request_time": "2026-10-13 13:35:06",
+  "request_time": "2026-10-14 11:12:05",
   "data_date": "last week (7 days)",
   "sites": [
     {
@@ -39,6 +39,12 @@
       "name": "College st/Westmoreland st"
     },
     {
+      "siteId": 100007778,
+      "pedestrian count": 113180,
+      "bike count": 0,
+      "name": "O'Connell St/Parnell St/AIB"
+    },
+    {
       "siteId": 100001485,
       "pedestrian count": 107458,
       "bike count": 0,
@@ -61,6 +67,12 @@
       "pedestrian count": 94697,
       "bike count": 0,
       "name": "Dame Street/Londis"
+    },
+    {
+      "siteId": 100050525,
+      "pedestrian count": 92763,
+      "bike count": 0,
+      "name": "College Green/Church Lane"
     },
     {
       "siteId": 100007794,
@@ -207,12 +219,6 @@
       "name": "Talbot st/Murrays Pharmacy"
     },
     {
-      "siteId": 100007778,
-      "pedestrian count": 0,
-      "bike count": 0,
-      "name": "O'Connell St/Parnell St/AIB"
-    },
-    {
       "siteId": 100012163,
       "pedestrian count": 0,
       "bike count": 0,
@@ -349,12 +355,6 @@
       "pedestrian count": 0,
       "bike count": 0,
       "name": "Bachelors walk/Bachelors way (Counter nonrepsonsive - Removed to return to supplier)"
-    },
-    {
-      "siteId": 100050525,
-      "pedestrian count": 0,
-      "bike count": 0,
-      "name": "College Green/Church Lane"
     },
     {
       "siteId": 100057291,
