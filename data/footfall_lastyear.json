@@ -1,5 +1,5 @@
 {
-  "request_time": "2026-10-14 11:12:12",
+  "request_time": "2026-10-15 10:52:07",
   "data_date": "last year (365 days)",
   "sites": [
     {
@@ -207,6 +207,12 @@
       "name": "Portmarnock Greenway"
     },
     {
+      "siteId": 300014833,
+      "pedestrian count": 46819,
+      "bike count": 83576,
+      "name": "Drumcondra Cyclists Inbound"
+    },
+    {
       "siteId": 100049327,
       "pedestrian count": 13983,
       "bike count": 0,
@@ -299,7 +305,7 @@
     {
       "siteId": 100027167,
       "pedestrian count": 0,
-      "bike count": 436126,
+      "bike count": 509505,
       "name": "Clonskeagh Totem"
     },
     {
@@ -335,7 +341,7 @@
     {
       "siteId": 100034545,
       "pedestrian count": 0,
-      "bike count": 0,
+      "bike count": 131191,
       "name": "Charleville Mall"
     },
     {
@@ -461,7 +467,7 @@
     {
       "siteId": 100064636,
       "pedestrian count": 0,
-      "bike count": 22594,
+      "bike count": 96441,
       "name": "Morton Stadium Swords"
     },
     {
@@ -481,12 +487,6 @@
       "pedestrian count": 0,
       "bike count": 2139,
       "name": "Richmond Street Inbound (Replacement Counter Required 03.09.26)"
-    },
-    {
-      "siteId": 300014833,
-      "pedestrian count": 0,
-      "bike count": 0,
-      "name": "Drumcondra Cyclists Inbound"
     },
     {
       "siteId": 300017046,

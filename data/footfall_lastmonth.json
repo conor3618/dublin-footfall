@@ -1,5 +1,5 @@
 {
-  "request_time": "2026-10-14 11:12:07",
+  "request_time": "2026-10-15 10:52:02",
   "data_date": "last month (~30 days)",
   "sites": [
     {
@@ -22,21 +22,21 @@
     },
     {
       "siteId": 100007778,
-      "pedestrian count": 325859,
+      "pedestrian count": 403080,
       "bike count": 0,
       "name": "O'Connell St/Parnell St/AIB"
+    },
+    {
+      "siteId": 100050525,
+      "pedestrian count": 324187,
+      "bike count": 0,
+      "name": "College Green/Church Lane"
     },
     {
       "siteId": 100007106,
       "pedestrian count": 284884,
       "bike count": 0,
       "name": "Talbot st/Murrays Pharmacy"
-    },
-    {
-      "siteId": 100050525,
-      "pedestrian count": 280152,
-      "bike count": 0,
-      "name": "College Green/Church Lane"
     },
     {
       "siteId": 100063166,
@@ -97,6 +97,12 @@
       "pedestrian count": 836,
       "bike count": 0,
       "name": "Round Tower Upstairs"
+    },
+    {
+      "siteId": 300014833,
+      "pedestrian count": 490,
+      "bike count": 22104,
+      "name": "Drumcondra Cyclists Inbound"
     },
     {
       "siteId": 300041339,
@@ -275,7 +281,7 @@
     {
       "siteId": 100034545,
       "pedestrian count": 0,
-      "bike count": 44984,
+      "bike count": 45989,
       "name": "Charleville Mall"
     },
     {
@@ -481,12 +487,6 @@
       "pedestrian count": 0,
       "bike count": 0,
       "name": "Richmond Street Inbound (Replacement Counter Required 03.09.26)"
-    },
-    {
-      "siteId": 300014833,
-      "pedestrian count": 0,
-      "bike count": 24801,
-      "name": "Drumcondra Cyclists Inbound"
     },
     {
       "siteId": 300017046,

@@ -1,5 +1,5 @@
 {
-  "request_time": "2026-10-14 11:12:05",
+  "request_time": "2026-10-15 10:52:01",
   "data_date": "last week (7 days)",
   "sites": [
     {
@@ -40,7 +40,7 @@
     },
     {
       "siteId": 100007778,
-      "pedestrian count": 113180,
+      "pedestrian count": 113706,
       "bike count": 0,
       "name": "O'Connell St/Parnell St/AIB"
     },
@@ -49,6 +49,12 @@
       "pedestrian count": 107458,
       "bike count": 0,
       "name": "O'Connell st/Princes st North"
+    },
+    {
+      "siteId": 100050525,
+      "pedestrian count": 105942,
+      "bike count": 0,
+      "name": "College Green/Church Lane"
     },
     {
       "siteId": 100030846,
@@ -67,12 +73,6 @@
       "pedestrian count": 94697,
       "bike count": 0,
       "name": "Dame Street/Londis"
-    },
-    {
-      "siteId": 100050525,
-      "pedestrian count": 92763,
-      "bike count": 0,
-      "name": "College Green/Church Lane"
     },
     {
       "siteId": 100007794,
