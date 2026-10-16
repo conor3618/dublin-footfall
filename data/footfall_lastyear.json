@@ -1,5 +1,5 @@
 {
-  "request_time": "2026-10-15 10:52:07",
+  "request_time": "2026-10-16 10:43:06",
   "data_date": "last year (365 days)",
   "sites": [
     {
@@ -293,7 +293,7 @@
     {
       "siteId": 100023988,
       "pedestrian count": 0,
-      "bike count": 193489,
+      "bike count": 225175,
       "name": "Rock Road Totem (2 way cycle track)"
     },
     {

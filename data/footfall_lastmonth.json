@@ -1,5 +1,5 @@
 {
-  "request_time": "2026-10-15 10:52:02",
+  "request_time": "2026-10-16 10:42:59",
   "data_date": "last month (~30 days)",
   "sites": [
     {
@@ -22,13 +22,13 @@
     },
     {
       "siteId": 100007778,
-      "pedestrian count": 403080,
+      "pedestrian count": 468485,
       "bike count": 0,
       "name": "O'Connell St/Parnell St/AIB"
     },
     {
       "siteId": 100050525,
-      "pedestrian count": 324187,
+      "pedestrian count": 413111,
       "bike count": 0,
       "name": "College Green/Church Lane"
     },
