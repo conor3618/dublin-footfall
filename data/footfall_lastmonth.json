@@ -1,5 +1,5 @@
 {
-  "request_time": "2026-10-21 11:10:28",
+  "request_time": "2026-10-22 11:09:58",
   "data_date": "last month (~30 days)",
   "sites": [
     {
@@ -51,10 +51,22 @@
       "name": "Mary st/Jervis st"
     },
     {
+      "siteId": 100063161,
+      "pedestrian count": 96155,
+      "bike count": 0,
+      "name": "Grand Canal st upp/Clanwilliam place"
+    },
+    {
       "siteId": 100006259,
       "pedestrian count": 54706,
       "bike count": 0,
       "name": "Aston Quay/Fitzgeralds"
+    },
+    {
+      "siteId": 100063159,
+      "pedestrian count": 47553,
+      "bike count": 0,
+      "name": "Phibsborough Rd/Enniskerry Road"
     },
     {
       "siteId": 100041487,
@@ -73,12 +85,6 @@
       "pedestrian count": 23265,
       "bike count": 36063,
       "name": "Dun Laoghaire @ Seapoint Beach"
-    },
-    {
-      "siteId": 100063159,
-      "pedestrian count": 19793,
-      "bike count": 0,
-      "name": "Phibsborough Rd/Enniskerry Road"
     },
     {
       "siteId": 100049328,
@@ -403,12 +409,6 @@
       "pedestrian count": 0,
       "bike count": 0,
       "name": "North Wall Quay/Samuel Beckett bridge East"
-    },
-    {
-      "siteId": 100063161,
-      "pedestrian count": 0,
-      "bike count": 0,
-      "name": "Grand Canal st upp/Clanwilliam place"
     },
     {
       "siteId": 100063162,
