@@ -1,5 +1,5 @@
 {
-  "request_time": "2026-10-26 12:16:07",
+  "request_time": "2026-10-27 11:36:22",
   "data_date": "last week (7 days)",
   "sites": [
     {
@@ -28,13 +28,13 @@
     },
     {
       "siteId": 100007794,
-      "pedestrian count": 146604,
+      "pedestrian count": 147262,
       "bike count": 0,
       "name": "College Green/Bank Of Ireland"
     },
     {
       "siteId": 100007793,
-      "pedestrian count": 138774,
+      "pedestrian count": 139361,
       "bike count": 0,
       "name": "Grafton Street / Nassau Street / Suffolk Street"
     },
@@ -124,7 +124,7 @@
     },
     {
       "siteId": 100006286,
-      "pedestrian count": 34590,
+      "pedestrian count": 34765,
       "bike count": 0,
       "name": "D'olier st/Burgh Quay"
     },
