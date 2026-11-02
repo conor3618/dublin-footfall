@@ -1,5 +1,5 @@
 {
-  "request_time": "2026-11-01 12:41:06",
+  "request_time": "2026-11-02 14:46:37",
   "data_date": "last month (~30 days)",
   "sites": [
     {
@@ -16,7 +16,7 @@
     },
     {
       "siteId": 100030847,
-      "pedestrian count": 606025,
+      "pedestrian count": 607280,
       "bike count": 0,
       "name": "Westmoreland Street West/Carrolls"
     },
@@ -28,7 +28,7 @@
     },
     {
       "siteId": 100007793,
-      "pedestrian count": 570343,
+      "pedestrian count": 571558,
       "bike count": 0,
       "name": "Grafton Street / Nassau Street / Suffolk Street"
     },
