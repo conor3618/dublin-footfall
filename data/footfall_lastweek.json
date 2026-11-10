@@ -1,5 +1,5 @@
 {
-  "request_time": "2026-11-09 15:12:08",
+  "request_time": "2026-11-10 14:20:26",
   "data_date": "last week (7 days)",
   "sites": [
     {
@@ -100,7 +100,7 @@
     },
     {
       "siteId": 100007092,
-      "pedestrian count": 77548,
+      "pedestrian count": 77666,
       "bike count": 0,
       "name": "Dawson Street/Molesworth"
     },
@@ -118,13 +118,13 @@
     },
     {
       "siteId": 100006267,
-      "pedestrian count": 59826,
+      "pedestrian count": 59940,
       "bike count": 0,
       "name": "Grafton Street/CompuB"
     },
     {
       "siteId": 100006286,
-      "pedestrian count": 54183,
+      "pedestrian count": 54386,
       "bike count": 0,
       "name": "D'olier st/Burgh Quay"
     },
