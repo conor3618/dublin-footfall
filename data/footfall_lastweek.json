@@ -1,5 +1,5 @@
 {
-  "request_time": "2026-11-12 14:38:18",
+  "request_time": "2026-11-13 13:55:59",
   "data_date": "last week (7 days)",
   "sites": [
     {
@@ -33,16 +33,16 @@
       "name": "College Green/Bank Of Ireland"
     },
     {
+      "siteId": 100007793,
+      "pedestrian count": 145251,
+      "bike count": 0,
+      "name": "Grafton Street / Nassau Street / Suffolk Street"
+    },
+    {
       "siteId": 100001484,
       "pedestrian count": 138592,
       "bike count": 0,
       "name": "O'Connell St/Pennys"
-    },
-    {
-      "siteId": 100007793,
-      "pedestrian count": 122596,
-      "bike count": 0,
-      "name": "Grafton Street / Nassau Street / Suffolk Street"
     },
     {
       "siteId": 100007778,
@@ -221,7 +221,7 @@
     {
       "siteId": 100027140,
       "pedestrian count": 0,
-      "bike count": 0,
+      "bike count": 3187,
       "name": "N11 Totem Inbound"
     },
     {
