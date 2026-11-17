@@ -1,5 +1,5 @@
 {
-  "request_time": "2026-11-16 14:48:03",
+  "request_time": "2026-11-17 15:29:36",
   "data_date": "last week (7 days)",
   "sites": [
     {
@@ -100,7 +100,7 @@
     },
     {
       "siteId": 100006286,
-      "pedestrian count": 78015,
+      "pedestrian count": 78206,
       "bike count": 0,
       "name": "D'olier st/Burgh Quay"
     },
@@ -112,13 +112,13 @@
     },
     {
       "siteId": 100001485,
-      "pedestrian count": 69260,
+      "pedestrian count": 69359,
       "bike count": 0,
       "name": "O'Connell st/Princes st North"
     },
     {
       "siteId": 100030848,
-      "pedestrian count": 68156,
+      "pedestrian count": 68377,
       "bike count": 0,
       "name": "Grafton st/Monsoon"
     },
