@@ -1,5 +1,5 @@
 {
-  "request_time": "2026-11-17 15:29:38",
+  "request_time": "2026-11-18 15:06:23",
   "data_date": "last month (~30 days)",
   "sites": [
     {
@@ -395,7 +395,7 @@
     {
       "siteId": 100059509,
       "pedestrian count": 0,
-      "bike count": 1089,
+      "bike count": 10035,
       "name": "Castleknock Totem"
     },
     {
