@@ -1,5 +1,5 @@
 {
-  "request_time": "2026-11-19 15:15:41",
+  "request_time": "2026-11-20 14:53:55",
   "data_date": "last week (7 days)",
   "sites": [
     {
@@ -27,6 +27,12 @@
       "name": "Westmoreland Street West/Carrolls"
     },
     {
+      "siteId": 100007793,
+      "pedestrian count": 153752,
+      "bike count": 0,
+      "name": "Grafton Street / Nassau Street / Suffolk Street"
+    },
+    {
       "siteId": 100007794,
       "pedestrian count": 147463,
       "bike count": 0,
@@ -37,12 +43,6 @@
       "pedestrian count": 140488,
       "bike count": 0,
       "name": "O'Connell St/Pennys"
-    },
-    {
-      "siteId": 100007793,
-      "pedestrian count": 133171,
-      "bike count": 0,
-      "name": "Grafton Street / Nassau Street / Suffolk Street"
     },
     {
       "siteId": 100007778,
