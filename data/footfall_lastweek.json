@@ -1,5 +1,5 @@
 {
-  "request_time": "2026-11-23 17:24:41",
+  "request_time": "2026-11-24 16:58:03",
   "data_date": "last week (7 days)",
   "sites": [
     {
@@ -19,6 +19,12 @@
       "pedestrian count": 159035,
       "bike count": 0,
       "name": "Westmoreland Street West/Carrolls"
+    },
+    {
+      "siteId": 100007793,
+      "pedestrian count": 155235,
+      "bike count": 0,
+      "name": "Grafton Street / Nassau Street / Suffolk Street"
     },
     {
       "siteId": 100007794,
@@ -70,7 +76,7 @@
     },
     {
       "siteId": 100006286,
-      "pedestrian count": 86735,
+      "pedestrian count": 87008,
       "bike count": 0,
       "name": "D'olier st/Burgh Quay"
     },
@@ -85,12 +91,6 @@
       "pedestrian count": 82122,
       "bike count": 0,
       "name": "Dawson Street/Molesworth"
-    },
-    {
-      "siteId": 100007793,
-      "pedestrian count": 81511,
-      "bike count": 0,
-      "name": "Grafton Street / Nassau Street / Suffolk Street"
     },
     {
       "siteId": 100001491,
